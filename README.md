@@ -1,25 +1,23 @@
 
-## 🚀 About Me
-🌟 ¡Hola! 👋 Soy Julia, una apasionada por el aprendizaje continuo y los retos. Después de haberme dedicado casi toda mi vida al sector de ventas, decidí seguir mi pasión por la tecnología y los datos, y emprendí el emocionante camino hacia la Ciencia de Datos.
+## 🚀 About Me  
 
-He dedicado tiempo y esfuerzo a desarrollar mis habilidades en análisis de datos, programación y modelado predictivo, y estoy emocionada de aplicar este conocimiento para resolver problemas del mundo real. Estoy en busca de mi primera oportunidad en el sector IT, donde pueda contribuir con mi experiencia previa en ventas y mis nuevas habilidades en ciencia de datos.
+🌟 Hi! 👋 I'm Julia, a data enthusiast with a passion for continuous learning and solving complex challenges. After years in the sales industry, I made the transition into tech, focusing on Data Science, Machine Learning, and Data Engineering.  
 
-🔧 Habilidades:
-Análisis de Datos: Exploración y visualización de datos con Python (Pandas, Matplotlib, Seaborn, etc.).
+Currently, I work as a freelance Data Engineer and AI Engineer, developing data pipelines, automating workflows, and integrating AI solutions. I specialize in building scalable data architectures, deploying machine learning models, and optimizing business processes through automation. I also design and implement AI-powered voice and text automation systems using tools like n8n, Make, Retell AI, and OpenAI, enhancing efficiency in customer interactions and task management.  
 
-Machine Learning: Creación de modelos predictivos con Scikit-learn y otras librerías de python.
+## 🔧 Skills & Tools  
 
-Bases de Datos: Manejo de SQL y herramientas relacionadas.
+✔ **Data Analysis & Visualization:** Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly), Power BI, Looker, Streamlit  
+✔ **Machine Learning & AI:** Scikit-learn, TensorFlow, BERT, NLP, Recommendation Systems  
+✔ **Data Engineering:** SQL, Google Cloud Platform (BigQuery, Cloud Functions, Storage), FastAPI  
+✔ **Automation & AI Integration:** n8n, Make, Retell AI, OpenAI, API Development, AI-powered voice assistants  
 
-Visualización: Creación de dashboards con herramientas como Streamlit y Power BI.
+## 🎯 What I’m Looking For  
 
-Gestión de Proyectos: Experiencia en coordinación y gestión, aplicada a equipos de ventas.
+💡 Exciting projects where I can apply my skills in data science, engineering, and AI to drive insights and automation. Always open to collaboration and new challenges!  
 
-🎯 Lo que busco:
+## 📫 Let's Connect!  
 
-💡 Una oportunidad para integrarme en un equipo de ciencia de datos o análisis en el sector IT. Estoy abierta a aprender, adaptarme y crecer profesionalmente.
-
-📫 Contáctame:
-📧 juliacgastellu@gmail.com                                   
-💼 linkedin.com/in/julia-gastellu                                                
-📞 +54 298 4876766
+📧 juliacgastellu@gmail.com  
+💼 [LinkedIn](https://linkedin.com/in/julia-gastellu)  
+📞 +54 298 4876766  
