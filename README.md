@@ -3,7 +3,7 @@
 
 🌟 Hi! 👋 I'm Julia, a results-driven Data Engineer with strong experience in Data Science and a growing focus on Web3 development. I combine analytical thinking with hands-on skills in cloud data pipelines, automation, and smart contract programming.
 
-Currently, I work as a Data Engineer at COA Tecnología, where I build and maintain ETL processes using SAP Data Services and Google Cloud Platform. I hold certifications as a Data Scientist, Google Data Analytics Professional, and Ethereum Developer, and I’m actively building projects in the Web3 space to expand my expertise in decentralized technologies.
+Currently, I work as a Data Engineer building and maintaining ETL processes using SAP Data Services and Google Cloud Platform. I hold certifications as a Data Scientist, Google Data Analytics Professional, and Ethereum Developer, and I’m actively building projects in the Web3 space to expand my expertise in decentralized technologies.
 
 I’m passionate about transforming complex data into valuable insights, automating processes to boost efficiency, and exploring how blockchain and smart contracts can deliver innovative solutions.
 
