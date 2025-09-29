@@ -19,8 +19,9 @@ I’m passionate about transforming complex data into valuable insights, automat
 
 💡 I’m always looking for challenging projects where I can combine my skills in data engineering, advanced analytics, and blockchain development to deliver high-impact solutions. Open to collaborations in the fields of cloud data pipelines, ETL automation, machine learning, and Web3.
 
-## 📫 Let's Connect!  
+## 📫 Let's Connect!
 
-📧 juliacgastellu@gmail.com  
-💼 [LinkedIn](https://linkedin.com/in/julia-gastellu)  
-📞 +54 298 4876766  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/julia-gastellu)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliacgastellu@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jugstllu)
+
