@@ -1,27 +1,58 @@
+# Hi, I'm Julia Gastellu
 
-## 🚀 About Me  
+### Data Engineer · Automation · Applied AI
 
-🌟 Hi! 👋 I'm Julia, a results-driven Data Engineer with strong experience in Data Science and a growing focus on Web3 development. I combine analytical thinking with hands-on skills in cloud data pipelines, automation, and smart contract programming.
+I connect data, systems and business processes through data engineering, automation and applied AI.
 
-Currently, I work as a Data Engineer building and maintaining ETL processes using SAP Data Services and Google Cloud Platform. I hold certifications as a Data Scientist, Google Data Analytics Professional, and Ethereum Developer, and I’m actively building projects in the Web3 space to expand my expertise in decentralized technologies.
+I currently work as a Data Engineer, building and maintaining ETL processes with SAP Data Services and Google Cloud Platform. Alongside that work, I develop projects involving APIs, databases, AI assistants and business workflows.
 
-I’m passionate about transforming complex data into valuable insights, automating processes to boost efficiency, and exploring how blockchain and smart contracts can deliver innovative solutions.
+I enjoy the full process: understanding a problem, defining a practical scope, building the solution and making sure it can be operated and maintained.
 
-## 🔧 Skills & Tools  
+## What I Build
 
-✔ Data Engineering: SAP Data Services, SQL, Google Cloud Platform (BigQuery, Cloud Functions, Storage)
-✔ Data Science & Analytics: Google Data Analytics, Python (Pandas, NumPy, Scikit-learn, TensorFlow, NLP), BERT, Recommendation Systems
-✔ Visualization & BI: Power BI, Looker, Streamlit, Matplotlib, Seaborn, Plotly, R Studio, Excel and Google Sheets.
-✔ Web3 Development: Solidity, Hardhat, Ethers.js, OpenZeppelin Contracts
-✔ Automation & AI Integration: n8n, Make, Retell AI, Eleven Labs, OpenAI, API Development 
+- **Data pipelines and integrations:** collecting, transforming and connecting information across APIs, databases and cloud services.
+- **Business automations:** workflows for administrative tasks, payments, billing, notifications and follow-ups.
+- **Applied AI solutions:** documentation assistants, RAG applications and workflows with human oversight where needed.
+- **Dashboards and analytics:** turning scattered data into information that teams can explore and use.
+- **Web applications and interfaces:** connecting frontend experiences with backend logic, data and business processes.
 
-## 🎯 What I’m Looking For  
+I also explore Web3 through selected projects involving smart contracts and on-chain data.
 
-💡 I’m always looking for challenging projects where I can combine my skills in data engineering, advanced analytics, and blockchain development to deliver high-impact solutions. Open to collaborations in the fields of cloud data pipelines, ETL automation, machine learning, and Web3.
+## Technologies I Work With
 
-## 📫 Let's Connect!
+| Area | Tools |
+|---|---|
+| Data Engineering | SQL, SAP Data Services, Google Cloud Platform, BigQuery, Cloud Functions, Cloud Storage |
+| Backend & APIs | Python, FastAPI, API integrations |
+| Automation & Applied AI | n8n, Make, LangChain, OpenAI, Retell AI, ElevenLabs |
+| Data Science | Pandas, NumPy, Scikit-learn, TensorFlow, NLP |
+| Analytics & Visualization | Power BI, Looker, Streamlit, Plotly, Matplotlib, Excel, Google Sheets |
+| Web3 | Solidity, Hardhat, Ethers.js, OpenZeppelin |
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/julia-gastellu)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliacgastellu@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jugstllu)
+The tools vary by project. I choose them based on the problem, existing systems and operational requirements.
 
+## How I Approach Projects
+
+1. Understand the process, users and constraints.
+2. Define the scope and what success would look like.
+3. Build and test the core workflow, including failure cases.
+4. Document decisions, limitations and operating requirements.
+5. Improve the solution based on evidence and feedback.
+
+I care about clear data flows, useful interfaces and reliable operation—not just getting a demo to run.
+
+## Explore My Work
+
+My repositories include projects in data engineering, AI and backend development, analytics and Web3.
+
+For project context, demos and my professional background, visit my [portfolio](https://juliagastellu-portfolio.vercel.app/).
+
+## Let's Work Together
+
+I'm interested in professional opportunities and collaborations in data engineering, automation and applied AI.
+
+If your team spends time moving information between tools, repeating administrative tasks or working with scattered data, feel free to reach out.
+
+Tell me how the process works today and what you'd like to improve. We can explore whether better data, an integration or automation could help.
+
+[Portfolio](https://juliagastellu-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/julia-gastellu/) · [Email](mailto:juliacgastellu@gmail.com) · [X](https://x.com/chica_random_13)
