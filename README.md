@@ -55,4 +55,4 @@ If your team spends time moving information between tools, repeating administrat
 
 Tell me how the process works today and what you'd like to improve. We can explore whether better data, an integration or automation could help.
 
-[Portfolio](https://juliagastellu-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/julia-gastellu/) · [Email](mailto:juliacgastellu@gmail.com) · [X](https://x.com/Jul_Gastellu)
+[Portfolio](https://juliagastellu.com.ar/) · [LinkedIn](https://www.linkedin.com/in/julia-gastellu/) · [Email](mailto:juliacgastellu@gmail.com) · [X](https://x.com/Jul_Gastellu)
